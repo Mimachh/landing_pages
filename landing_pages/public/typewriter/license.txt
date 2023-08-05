@@ -1,0 +1,11 @@
+Model Information:
+* title:	Minitel 1982-France
+* source:	https://sketchfab.com/3d-models/minitel-1982-france-864f54ce4e1f41abab0688b88a45babf
+* author:	okotaru (https://sketchfab.com/loaferspore)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Minitel 1982-France" (https://sketchfab.com/3d-models/minitel-1982-france-864f54ce4e1f41abab0688b88a45babf) by okotaru (https://sketchfab.com/loaferspore) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

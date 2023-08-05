@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bat Signal
+* source:	https://sketchfab.com/3d-models/bat-signal-01fea2a6d7e24241be53cdb28d0848bb
+* author:	Vasanth adepu (https://sketchfab.com/vasanthadepu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bat Signal" (https://sketchfab.com/3d-models/bat-signal-01fea2a6d7e24241be53cdb28d0848bb) by Vasanth adepu (https://sketchfab.com/vasanthadepu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

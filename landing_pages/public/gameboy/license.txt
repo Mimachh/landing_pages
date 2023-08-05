@@ -1,0 +1,11 @@
+Model Information:
+* title:	yellow gameboy
+* source:	https://sketchfab.com/3d-models/yellow-gameboy-7fb53edae00d4a8b98d06383fc1280ad
+* author:	AtTheSpeedOf (https://sketchfab.com/AtTheSpeedOf)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "yellow gameboy" (https://sketchfab.com/3d-models/yellow-gameboy-7fb53edae00d4a8b98d06383fc1280ad) by AtTheSpeedOf (https://sketchfab.com/AtTheSpeedOf) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
