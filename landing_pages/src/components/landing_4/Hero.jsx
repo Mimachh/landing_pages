@@ -1,5 +1,6 @@
 import { motion, AnimatePresence } from 'framer-motion'
 
+import { treejsLogo } from '../../assets'
 
 import CustomButton from '../landing_3/CustomButton'
 import { 
@@ -18,7 +19,7 @@ const Home = () => {
         <motion.section className='home' {...slideAnimation('left')}>
           <motion.header {...slideAnimation('down')}>
             <img 
-            src='../../../public/t-shirt/threejs.png'
+            src={treejsLogo}
             alt='logo'
             aria-label='logo'
             className='w-8 h-8 object-contain'

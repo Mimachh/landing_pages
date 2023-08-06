@@ -39,6 +39,7 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import treejsLogo from '../../public/t-shirt/threejs.png'
 
 // Landing 2
 
@@ -47,6 +48,7 @@ import buy from "./caddie.png";
 import enjoy from "./heureux.png";
 
 export {
+  treejsLogo,
   sell,
   buy,
   enjoy,
