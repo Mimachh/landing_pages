@@ -19,7 +19,7 @@ const About2 = () => {
       variants={textVariant()}
       >
         <p className={`${styles.sectionSubText} text-black-200 text-center font-vt md:text-[30px] text-[24px]`}>Introduction</p>
-        <h2 className={`${styles.sectionHeadText} text-black text-center font-vt !text-[60px] md:!text-[110px]`}>Overview.</h2>
+        <h2 className={`${styles.sectionHeadText} !text-black text-center font-vt !text-[60px] md:!text-[110px]`}>Overview.</h2>
       </motion.div>
 
       <motion.p

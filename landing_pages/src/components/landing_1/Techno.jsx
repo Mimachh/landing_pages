@@ -21,7 +21,7 @@ const Techno = () => {
           className="box shadow-card
           cursor-pointer
           border-4 rounded-md
-          transition-all duration-300 ease-in text-center
+          text-center
           p-[25px]
           " 
           key={technology.name}>
