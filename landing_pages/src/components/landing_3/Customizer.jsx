@@ -50,30 +50,30 @@ const Customizer = () => {
     }
   
     const handleSubmit = async (type) => {
-      if(!prompt) return alert("Please enter a prompt");
+      // if(!prompt) return alert("Please enter a prompt");
   
-      try {
-        setGeneratingImg(true);
+      // try {
+      //   setGeneratingImg(true);
   
-        const response = await fetch('http://localhost:8080/api/v1/dalle', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json'
-          },
-          body: JSON.stringify({
-            prompt,
-          })
-        })
+      //   const response = await fetch('http://localhost:8080/api/v1/dalle', {
+      //     method: 'POST',
+      //     headers: {
+      //       'Content-Type': 'application/json'
+      //     },
+      //     body: JSON.stringify({
+      //       prompt,
+      //     })
+      //   })
   
-        const data = await response.json();
+      //   const data = await response.json();
   
-        handleDecals(type, `data:image/png;base64,${data.photo}`)
-      } catch (error) {
-        alert(error)
-      } finally {
-        setGeneratingImg(false);
-        setActiveEditorTab("");
-      }
+      //   handleDecals(type, `data:image/png;base64,${data.photo}`)
+      // } catch (error) {
+      //   alert(error)
+      // } finally {
+      //   setGeneratingImg(false);
+      //   setActiveEditorTab("");
+      // }
     }
   
     const handleDecals = (type, result) => {
