@@ -37,13 +37,13 @@ const Customizer = () => {
             setFile={setFile}
             readFile={readFile}
           />
-        case "aipicker":
-          return <AIPicker 
-            prompt={prompt}
-            setPrompt={setPrompt}
-            generatingImg={generatingImg}
-            handleSubmit={handleSubmit}
-          />
+        // case "aipicker":
+        //   return <AIPicker 
+        //     prompt={prompt}
+        //     setPrompt={setPrompt}
+        //     generatingImg={generatingImg}
+        //     handleSubmit={handleSubmit}
+        //   />
         default:
           return null;
       }
@@ -76,15 +76,15 @@ const Customizer = () => {
       // }
     }
   
-    const handleDecals = (type, result) => {
-      const decalType = DecalTypes[type];
+    // const handleDecals = (type, result) => {
+    //   const decalType = DecalTypes[type];
   
-      state[decalType.stateProperty] = result;
+    //   state[decalType.stateProperty] = result;
   
-      if(!activeFilterTab[decalType.filterTab]) {
-        handleActiveFilterTab(decalType.filterTab)
-      }
-    }
+    //   if(!activeFilterTab[decalType.filterTab]) {
+    //     handleActiveFilterTab(decalType.filterTab)
+    //   }
+    // }
   
     const handleActiveFilterTab = (tabName) => {
       switch (tabName) {
