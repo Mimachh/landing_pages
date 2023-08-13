@@ -14,8 +14,8 @@ const Navbar = () => {
   const links = [
     { to: "/", title: "Landing 1" },
     { to: "/landing_2", title: "Landing 2" },
+    // { to: "/landing_3", title: "Landing 3" },
     { to: "/landing_3", title: "Landing 3" },
-    { to: "/landing_4", title: "Landing 4" },
 
   ];
 

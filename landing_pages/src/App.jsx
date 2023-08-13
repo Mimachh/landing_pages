@@ -20,8 +20,8 @@ const App = () => {
       <Routes>
         <Route path="/" exact element={<Landing_1 />} />
         <Route path="/landing_2" exact element={<Landing_2 />} />
-        <Route path="/landing_3" exact element={<Landing_3 />} />
-        <Route path="/landing_4" exact element={<Landing_4 />} />
+        {/* <Route path="/landing_3" exact element={<Landing_3 />} /> */}
+        <Route path="/landing_3" exact element={<Landing_4 />} />
       </Routes>
     </BrowserRouter>
   )
